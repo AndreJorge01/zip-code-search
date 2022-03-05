@@ -6,7 +6,7 @@ Exercise to practice react using an API to find zip code
 ## technologies used.
 + HTML.
 + CSS.
-+ React
++ React.
 + JavaScript
 # Start Dev Environment for VSCode.
 + Open project folder in VSCode
