@@ -7,7 +7,7 @@ Exercise to practice react using an API to find zip code
 + HTML.
 + CSS.
 + React.
-+ JavaScript
++ JavaScript.
 # Start Dev Environment for VSCode.
 + Open project folder in VSCode
 + Install Live Server extension
